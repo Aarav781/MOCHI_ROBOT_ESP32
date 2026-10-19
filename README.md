@@ -1,5 +1,5 @@
 # Mochi Robot (ESP32)
-Not the c3
+
 Mochi is a small robot pet with a face on a tiny screen that shows how it feels.
 
 - It reacts when you touch it, shake it or tilt it, and it makes beep sounds
